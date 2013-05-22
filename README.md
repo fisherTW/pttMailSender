@@ -1,6 +1,6 @@
 #pttMailSender
 
-pttMailSender is a web application for sending PTT insite mail.
+pttMailSender is a web application to send PTT insite mail full-automatically.
 
 #What It Do
 1. login
