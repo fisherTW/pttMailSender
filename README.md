@@ -8,6 +8,12 @@ pttMailSender is a web application to send PTT insite mail full-automatically.
 3. compose & send mail
 4. logout 
 
+#Prepare
+```php
+extension=json.so (or PHP 5 >= 5.2.0)
+extension=php_sockets.so
+```
+
 #Getting Started
 Simply pass these parameters:
 ```php
