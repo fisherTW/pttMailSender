@@ -25,7 +25,3 @@ config your mail list:
 ```php        
 $ary_mailList array
 ```
-
-#To-Do
-* ANSI color parser
-* user-friendly message
